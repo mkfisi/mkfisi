@@ -2,7 +2,7 @@
 
 
 
-#Here are some ideas to get you started:
+#How are you today?
 
 - 🔭 I’m currently studying at SJSU
 - 🌱 I’m currently learning everything I want. 
